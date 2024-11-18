@@ -18,8 +18,8 @@ Aplicando el programa al siguiente texto:
 “El amor es una locura que ni el cura lo cura porque si el cura lo cura sería una locura del cura”
 
 ## El resultado sería:
-La palabra "El" se repite 1 instancia(s)"
-La palabra "amor" se repite 1 instancia(s)"
+La palabra "El" se repite 1 instancia(s)"                                                                     
+La palabra "amor" se repite 1 instancia(s)"                                                                           
 La palabra "es" se repite 1 instancia(s)"
 La palabra "una" se repite 2 instancia(s)"
 La palabra "locura" se repite 2 instancia(s)"
@@ -34,6 +34,5 @@ La palabra "sería" se repite 1 instancia(s)"
 La palabra "del" se repite 1 instancia(s)"
 
 ## Autor
-Isaac Hernández  
+Isaac Heredia Diaz
 [GitHub](https://github.com/IsaacHD86)
-
