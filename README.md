@@ -20,19 +20,19 @@ Aplicando el programa al siguiente texto:
 ## El resultado sería:
 La palabra "El" se repite 1 instancia(s)"                                                                     
 La palabra "amor" se repite 1 instancia(s)"                                                                           
-La palabra "es" se repite 1 instancia(s)"
-La palabra "una" se repite 2 instancia(s)"
-La palabra "locura" se repite 2 instancia(s)"
-La palabra "que" se repite 1 instancia(s)"
-La palabra "ni" se repite 1 instancia(s)"
-La palabra "el" se repite 2 instancia(s)"
-La palabra "cura" se repite 5 instancia(s)"
-La palabra "lo" se repite 2 instancia(s)"
-La palabra "porque" se repite 1 instancia(s)"
-La palabra "si" se repite 1 instancia(s)"
-La palabra "sería" se repite 1 instancia(s)"
-La palabra "del" se repite 1 instancia(s)"
-
+La palabra "es" se repite 1 instancia(s)"                                                                                    
+La palabra "una" se repite 2 instancia(s)"                                                                                        
+La palabra "locura" se repite 2 instancia(s)"                                                                                        
+La palabra "que" se repite 1 instancia(s)"                                                                                              
+La palabra "ni" se repite 1 instancia(s)"                                                                                            
+La palabra "el" se repite 2 instancia(s)"                                                                                              
+La palabra "cura" se repite 5 instancia(s)"                                                                                        
+La palabra "lo" se repite 2 instancia(s)"                                                                                               
+La palabra "porque" se repite 1 instancia(s)"                                                                                            
+La palabra "si" se repite 1 instancia(s)"                                                                                              
+La palabra "sería" se repite 1 instancia(s)"                                                                                            
+La palabra "del" se repite 1 instancia(s)"                                                                                             
+                                                                                                                                         
 ## Autor
 Isaac Heredia Diaz
 [GitHub](https://github.com/IsaacHD86)
